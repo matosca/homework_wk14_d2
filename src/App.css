@@ -44,9 +44,10 @@ body {
   border: solid 1.5px #61dafb;
 }
 
-/* .song img:hover {
+.song img:hover {
   opacity: 0.7;
-} */
+  border: solid 2.5px #61dafb;
+}
 
 @keyframes App-logo-spin {
   from {
